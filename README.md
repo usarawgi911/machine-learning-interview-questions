@@ -33,3 +33,18 @@
 30. Batch Normalization
 31. Vanishing Gradients
 32. Exploding gradients
+
+## Other Topics:
+1. Dimensionality reduction
+2. PCA
+3. Kernel PCA
+4. Ridge regression
+5. L1 vs L2 loss
+6. Activation Functions
+7. Advantages of RelU
+8. Thresholds for a classifier
+9. Interpretation of an ROC area under the curve as an integral
+10. Confusion matrix
+
+Other elaborate resources:
+https://github.com/Sroy20/machine-learning-interview-questions
