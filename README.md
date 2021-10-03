@@ -34,7 +34,7 @@
 31. Vanishing Gradients
 32. Exploding gradients
 
-## Other Topics:
+## Other Topics and resources:
 1. Dimensionality reduction
 2. PCA
 3. Kernel PCA
@@ -45,6 +45,8 @@
 8. Thresholds for a classifier
 9. Interpretation of an ROC area under the curve as an integral
 10. Confusion matrix
+In different files, I list various questions that might be asked in a ML interview. Here is the table of contents:
 
-Other elaborate resources:
-https://github.com/Sroy20/machine-learning-interview-questions
+1. [Deep Learning Questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
+2. [General Machine Learning Questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_machine_learning.md)
+3. [Mathematics for Machine Learning Questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_mathematics.md)
