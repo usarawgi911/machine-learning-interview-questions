@@ -1,6 +1,6 @@
 # Machine Learning - Questions and Answers
 
-## Topics:
+## Q&A Topics:
 1. Supervised vs Unsupervised
 2. Bias vs Variance
 3. Underfitting vs overfitting
@@ -45,7 +45,6 @@
 8. Thresholds for a classifier
 9. Interpretation of an ROC area under the curve as an integral
 10. Confusion matrix
-In different files, I list various questions that might be asked in a ML interview. Here is the table of contents:
 
 ## More elaborate and extensive Questions:
 1. [Deep Learning Questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
