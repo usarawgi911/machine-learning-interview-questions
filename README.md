@@ -47,6 +47,6 @@
 10. Confusion matrix
 
 ## More elaborate and extensive Questions:
-1. [Deep Learning](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
-2. [General Machine Learning](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_machine_learning.md)
+1. [General Machine Learning](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_machine_learning.md)
+2. [Deep Learning](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
 3. [Mathematics for Machine Learning](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_mathematics.md)
